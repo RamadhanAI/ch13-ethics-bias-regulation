@@ -1,0 +1,9 @@
+scikit-learn
+fairlearn
+shap
+lime
+pandas
+numpy
+matplotlib
+jupyter
+pytest
