@@ -2,7 +2,8 @@ Chapter 13: Ethics, Bias, and Regulation in Deployed AI
 
 Welcome to the companion repository for Chapter 13 of Applied AI and MLOps: From Idea to Deployment.
 
-As AI permeates every aspect of society, ethical considerations become paramount. This repo equips ML practitioners with practical resources to audit bias, explain complex models, mitigate unfairness, and embed ethical governance into production ML pipelines.
+As AI permeates every aspect of society, ethical considerations become paramount. 
+This repo equips ML practitioners with practical resources to audit bias, explain complex models, mitigate unfairness, and embed ethical governance into production ML pipelines.
 
 What You’ll Find Here
 
